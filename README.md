@@ -9,7 +9,7 @@ This is a TypeScript Express server that integrates with ImageKit for handling i
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/scriptscrypt/imagekit-server-ts.git
    cd your-repository
    ```
 
