@@ -1,5 +1,5 @@
 
-# My TypeScript Express Server with ImageKit Integration
+# TS Server with ImageKit Integration
 
 This is a TypeScript Express server that integrates with ImageKit for handling image-related functionalities.
 
@@ -9,7 +9,7 @@ This is a TypeScript Express server that integrates with ImageKit for handling i
 
    ```bash
    git clone https://github.com/scriptscrypt/imagekit-server-ts.git
-   cd your-repository
+   cd imagekit-server-ts
    ```
 
 2. Install dependencies:
