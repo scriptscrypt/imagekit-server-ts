@@ -1,5 +1,4 @@
 
-```markdown
 # My TypeScript Express Server with ImageKit Integration
 
 This is a TypeScript Express server that integrates with ImageKit for handling image-related functionalities.
@@ -74,4 +73,3 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
